@@ -1,6 +1,9 @@
 # App-Service-Azure
 Criação de um servidor com banco de dados e deploy de um App Service em .NET 8.0 com Azure.
 
+## Contexto
+Depois de desenvolver uma aplicação em C# com .NET para o gerenciamento de contatos, implementei uma solução para disponibilizá-la na internet, utilizando recursos de nuvem. Essa implementação envolveu o uso do serviço App Service, em conjunto com um servidor e um banco de dados hospedados no Azure.
+
 ![image](https://github.com/cintra1/App-Service-Azure/assets/101955322/4d0a25da-9d52-4427-ad16-6def36939e49)
 
 ![image](https://github.com/cintra1/App-Service-Azure/assets/101955322/30f05f7b-258f-4090-8370-38b3866dfa27)
