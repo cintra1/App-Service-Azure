@@ -1,5 +1,4 @@
-# App-Service-Azure
-Criação de um servidor com banco de dados e deploy de um App Service em .NET 8.0 com Azure.
+# Lista de Contatos com App Service no Azure
 
 ## Contexto
 Depois de desenvolver uma aplicação em C# com .NET para o gerenciamento de contatos, implementei uma solução para disponibilizá-la na internet, utilizando recursos de nuvem. Essa implementação envolveu o uso do serviço App Service, em conjunto com um servidor e um banco de dados hospedados no Azure.
